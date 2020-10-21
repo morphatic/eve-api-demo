@@ -1,3 +1,5 @@
+X_DOMAINS = '*'
+
 # mongo connection info
 MONGO_HOST = 'localhost'
 MONGO_PORT = 27017
